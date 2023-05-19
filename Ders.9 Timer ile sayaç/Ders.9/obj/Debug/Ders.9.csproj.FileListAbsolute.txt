@@ -1,0 +1,22 @@
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\bin\Debug\Ders.9.exe.config
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\bin\Debug\Ders.9.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\bin\Debug\Ders.9.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders._9.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders._9.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9\Ders.9\obj\Debug\Ders.9.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\bin\Debug\Ders.9.exe.config
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\bin\Debug\Ders.9.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\bin\Debug\Ders.9.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders._9.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders._9.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.9 Timer ile sayaç\Ders.9\obj\Debug\Ders.9.pdb
